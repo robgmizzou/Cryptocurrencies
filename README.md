@@ -13,4 +13,5 @@ The below elbow test indicates we should have 4 classes of coins.<br>
 Tabled dataset for the summary data for hvplot:<br>
 ![image](https://user-images.githubusercontent.com/100323377/178153316-9fe60aa0-4af1-4dfa-b587-2355818e3487.png)<br>
 
+Scaled data for the CoinsMined versus TotalCoinSupply:<br>
 ![image](https://user-images.githubusercontent.com/100323377/178153304-04d760e2-ac96-41da-88f8-8c5975087422.png)<br>
